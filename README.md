@@ -10,3 +10,11 @@ This project trains a deep learning model to **recognize all playing cards** in 
 
 ```bash
 pip install torch torchvision matplotlib
+```
+## 🛠️ Bibliotecas
+
+| Biblioteca | Uso | Instalação |
+|------------|-----|------------|
+| `torch` | Rede neural e treino | `pip install torch` |
+| `torchvision` | Modelos pré-treinados, transforms | `pip install torchvision` |
+| `matplotlib` | Visualizar imagens (opcional) | `pip install matplotlib` |
